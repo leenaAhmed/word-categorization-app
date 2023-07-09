@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.header {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.score {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.rank-details {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 40px;
+}
