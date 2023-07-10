@@ -29,7 +29,7 @@ Step-by-step instructions on how to install and set up the project locally. Incl
 1. Clone the repository:
 
 ```shell
-git clone [https://github.com/leenaAhmed/word-categorization-app](https://github.com/leenaAhmed/word-categorization-app)
+git clone https://github.com/leenaAhmed/word-categorization-app
 ```
 
 1. Install the dependencies for the server-side app:
