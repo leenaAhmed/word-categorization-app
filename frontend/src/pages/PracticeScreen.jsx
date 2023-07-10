@@ -30,7 +30,9 @@ const PracticeScreen = ({ onFinalScore }) => {
         selectedOption={selectedOption}
         onOptionClick={handleOptionClick}
       />
-      <div className={styles.feedback}>{feedback}</div>
+      <div className={feedback === "Correct!" ? styles.green : styles.red}>
+        {feedback}
+      </div>
     </div>
   );
 };

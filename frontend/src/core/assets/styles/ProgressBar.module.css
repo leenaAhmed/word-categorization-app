@@ -8,7 +8,7 @@
 }
 
 .progressBar {
-  background-color: #007bff;
+  background-color: #ba68c8;
   height: 100%;
   transition: width 0.3s ease-in-out;
 }

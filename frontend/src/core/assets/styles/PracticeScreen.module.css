@@ -29,8 +29,13 @@
   text-transform: capitalize;
 }
 
-.feedback {
-  font-size: 18px;
-  color: #333;
+.green {
+  color: #558b2f;
+  font-size: 23px;
   text-align: center;
+}
+.red {
+  font-size: 23px;
+  text-align: center;
+  color: rgb(122, 6, 6);
 }
