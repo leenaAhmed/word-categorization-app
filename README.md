@@ -1,7 +1,6 @@
 # word-categorization-app
 
-This interactive activity is designed to help practice categorizing words.
-It utilizes React.js for the front end and Node.js with Express.js for the back end.
+
 
 ## Table of Contents
 
@@ -11,9 +10,9 @@ It utilizes React.js for the front end and Node.js with Express.js for the back 
 - [Usage](#usage)
 
 ## Project Description
-
-Provide a detailed overview of your project, explaining its purpose, features, and functionality.
-
+This interactive activity is designed to help practice categorizing words.
+It utilizes React.js for the front end and Node.js with Express.js for the back end.
+ 
 ## Technologies Used
 
 List the technologies and frameworks used in your project.
